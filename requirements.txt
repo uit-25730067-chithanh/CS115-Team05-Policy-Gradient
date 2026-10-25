@@ -1,4 +1,4 @@
-# CS115-Team05-PG: Policy Gradient for Reinforcement Learning
+# CS115-Team05-Policy-Gradient: Policy Gradient for Reinforcement Learning
 # python>=3.9
 #
 # Install: pip install -r requirements.txt

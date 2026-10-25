@@ -68,7 +68,7 @@
 ## Cấu trúc Dự án
 
 ```text
-CS115-Team05-PG/
+CS115-Team05-Policy-Gradient/
 │
 ├── docs/                   # Tài liệu dự án (PDR, roadmap, architecture)
 ├── math/                   # Chứng minh toán học (LaTeX)
@@ -101,8 +101,8 @@ CS115-Team05-PG/
 ### 2. Cài đặt
 
 ```bash
-git clone https://github.com/uit-25730067-chithanh/CS115-Team05-PG.git
-cd CS115-Team05-PG
+git clone https://github.com/uit-25730067-chithanh/CS115-Team05-Policy-Gradient.git
+cd CS115-Team05-Policy-Gradient
 
 # Tạo môi trường ảo (khuyến nghị)
 python3 -m venv venv

@@ -5,7 +5,7 @@ Tài liệu này liệt kê cấu trúc thư mục và các tệp tin quan trọ
 ## Cấu trúc Thư mục
 
 ```text
-CS115-Team05-PG/
+CS115-Team05-Policy-Gradient/
 ├── data/       # Lưu trữ dữ liệu log, checkpoints (được ignore)
 ├── docs/       # Tài liệu dự án (PDR, standards, architecture, knowledge)
 ├── math/       # Các file tĩnh LaTeX (chứng minh công thức toán học)

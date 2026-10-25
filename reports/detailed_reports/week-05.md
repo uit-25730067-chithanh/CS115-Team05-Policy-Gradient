@@ -101,8 +101,8 @@ Dưới đây là nội dung báo cáo chi tiết từ các thành viên trong t
 
 ### 🚧 Đang làm / Vướng mắc
 
-- <https://github.com/uit-25730067-chithanh/CS115-Team05-PG/issues/3>
+- <https://github.com/uit-25730067-chithanh/CS115-Team05-Policy-Gradient/issues/3>
 
 ### 📅 Kế hoạch Tuần tới
 
-- <https://github.com/uit-25730067-chithanh/CS115-Team05-PG/issues/5>
+- <https://github.com/uit-25730067-chithanh/CS115-Team05-Policy-Gradient/issues/5>
